@@ -1,0 +1,167 @@
+@media only screen and (max-width: 1500px){
+	#featuredpro .lefttexts {width: 32%; float: left;}
+	#featuredpro .lefttexts .textbox {margin-right: 46px; margin-top: 40%;}
+	#featuredpro .custslider {width: 68%; float: left;}
+}
+@media only screen and (max-width: 1439px){
+	.flex-control-thumbs {padding-left: 6%;}
+}
+@media only screen and (max-width: 1199px){
+	.container {padding: 0 15px;}
+	#tablinks ul li {padding: 4px 17px 2px;}
+	.flex-control-thumbs {padding-left: 8.7%;}
+	.flex-control-thumbs li {margin: 0 5px;}
+	.flex-control-thumbs img {width: 76px;}
+	.ctitle {padding-right: 80px;}
+	.dotline {right: 47px;}
+	.tabpart .tabbox {width: 337px;}
+	.maintabs > li {margin: 0;}
+	.maintabs > li > a {padding: 0 23px 20px;}
+	.tabpart .clists .cmapbox {width: 360px;}
+	footer .topfooter .lfooter {width: 450px;}
+	footer .footerlinks .fcol1 {width: 290px;}
+	footer .footerlinks .fcol2 {width: 300px;}
+	footer .footerlinks .fcol3 {padding-left: 0; width: 350px;}
+
+	.searchbar .title h2:before {left: -88px;}
+	.searchbar .title h2:after {right: -88px;}
+	.searchbar .searchform {padding: 0 60px;}
+	.searchbar .searchform .innerform {padding: 20px;}
+	.searchbar .searchform .fieldcol1 {width: 263px;}
+	.searchbar .searchform .fieldcol2 {width: 121px;}
+	.searchbar .searchform .fieldcol3 {width: 110px;}
+	.searchbar .searchform .custfield {padding: 6px 30px 6px 12px; background-position: 97% center;}
+	.searchbar .searchform .calicon, .searchbar .searchform .guesticon {background-position: 91% 50%;}
+	.searchbar .findbtn {width: 152px;}
+	.locations .locationinfo {left: 35px;}
+	#aboutus {padding-bottom: 175px;}
+	#aboutus .righttexts {padding: 90px 15px 0 40px;}
+
+	#featuredpro .lefttexts {padding-right: 0;}
+	#featuredpro .lefttexts .textbox {width: 100%; margin-top: 25%; margin-right: 0; padding: 0 15px;}
+}
+@media only screen and (max-width: 991px){
+	header {background: none !important; padding-bottom: 0; position: absolute;}
+	#mainslider, #mainslider .itembox {height: 750px !important;}
+	.contactbar {width: 65px; padding: 15px;}
+	.contactbar .numbermail {bottom: 209px; left: -169px;}
+	.reviewslabel {bottom: 7px;}
+	.flex-control-thumbs {padding-left: 11.2%; height: 80px;}
+	.flex-control-thumbs img {width: 48px; height: 40px;}
+	.flex-control-thumbs .flex-active {width: 90px; height: 56px;}
+	.reviewslabel .rlbox {width: 168px;}
+	.reviewslabel .rlbox h3 {width: auto;}
+
+	#mobilemenu {float: right; width: 40px; height: 40px; border: 1px solid #555555; margin-top: 15px; background-image: url(../images/menuicon.png); background-repeat: no-repeat; background-position: center center; cursor:pointer; background-color: #3d3d3d; border-radius: 2px;}
+	.custnav .menus {position: absolute; right: 0; top: 55px; z-index: 2; width: 170px; background-color: #3d3d3d; padding: 5px 0; margin: 0; display: none;}
+	.custnav .menus > li {width: 100%; float: left; padding: 5px 15px;}
+	.custnav .menus > li.blankli {display: none;}
+
+	#tablinks ul {margin-top: 0;}
+	#tablinks ul li {padding: 4px 18px 2px;}
+	#tablinks ul li:last-child {border-right: none;}
+	.cntbtn {margin-top: 15px;}
+	.ctitle {padding-right: 30px;}
+	.ctitle h3 {font-size: 22px; line-height: 28px;}
+	.dotline {right: 3px;}
+	#generalinfo .dotline:after {height: 476px;}
+	#propertyreviews .dotline:after {height: 448px;}
+	#surroundings .dotline:after {height: 1020px;}
+	.informations .details {padding: 23px 30px;}
+	#propertyreviews .innerbox {padding: 28px 15px 10px;}
+	.tabpart .tabbox {width: 100%;}
+	.tabpart .clists .cmapbox {width: 100%; position: relative; top: inherit; left: inherit; float: left; overflow: hidden; margin-top: 15px;}
+	#amenities .amenities .innerbox {padding: 20px 15px 10px;}
+	footer .topfooter .lfooter, footer .topfooter .rfooter {text-align: center; width: 100%;}
+	footer .topfooter .rfooter a {float: none !important; display: inline-block !important; margin: 0 10px !important;}
+	footer .footerlinks .fcol {width: 33.3% !important; padding-left: 0 !important;}
+	footer .footerlinks .fcol3 ul {width: 100%;}
+	footer .footerlinks .fcol3 p {float: left; margin-top: 10px;}
+
+	.mainbanner {height: 750px !important;}
+	.searchbar .title {padding: 0 175px;}
+	.searchbar .searchform {padding: 0 90px;}
+	.searchbar .searchform .innerform {text-align: center;}
+	.searchbar .searchform .fieldcol {margin-bottom: -1px;}
+	.searchbar .searchform .fieldcol1 {width: 100%;}
+	.searchbar .searchform .fieldcol2 {width: 33.4%;}
+	.searchbar .searchform .fieldcol3 {width: 33.5%;}
+	.searchbar .findbtn {margin-top:15px; float: none;}
+	#aboutus {padding-bottom: 115px;}
+	#aboutus .leftimgs .imgbox {width: 350px;}
+	#aboutus .leftimgs .imgbox2 {top: 117px;}
+	#aboutus .righttexts {padding-top: 0;}
+}
+@media only screen and (max-width: 767px){
+	.contactbar {display: none;}
+	#mainslider, #mainslider .itembox {height: 410px !important;}
+	.flex-control-thumbs {padding-left: 0;}
+	#tablinks {text-align: center;}
+	#tablinks ul li {width: 50%; padding: 0 20px !important; margin: 5px 0; text-align: center;}
+	#tablinks ul li:nth-child(2) {border-right: none;}
+	#tablinks ul li a, .cntbtn {float: none; display: inline-block;}
+	.dotline {display: none;}
+	.ctitle {margin: 0 0 20px 0; padding: 0 15px;}
+	.ctitle h3 {text-align: left;}
+	.tabpart .clists .cmapbox {height: 380px;}
+	.copyright p {width: 100%; text-align: center;}
+
+	.mainbanner {height: 540px !important;}
+	.searchbar {bottom: 15px;}
+	.searchbar .title, .searchbar .searchform {padding: 0;}
+	.searchbar .title h2 {margin-bottom: 10px;}
+	.searchbar .title h2::before, .searchbar .title h2::after {display: none;}
+	#aboutus .leftimgs {padding: 0 15px;}
+	#aboutus .righttexts {padding: 150px 15px 0;}
+	#aboutus .leftimgs .imgbox2 {right: 15px;}
+
+	#featuredpro .lefttexts {width: 100%;}
+	#featuredpro .lefttexts .textbox {margin:0 0 20px 0;}
+	#featuredpro .custslider {width: 100%;}
+}
+@media only screen and (max-width: 639px){
+	header .logo {left: 15px; transform: none; -moz-transform: none; -webkit-transform: none;}
+	header .logo img {width: 100px;}
+	.reviewslabel {display: none;}
+	#amenities .amenities ul.lists {width: 100%;}
+	footer .topfooter .rfooter .no {padding: 13px 20px 12px;}
+	footer .topfooter .rfooter .enqbtn {padding: 14px 20px 13px;}
+	footer .footerlinks .fcol {width: 100% !important;}
+
+	.locations .locationinfo {width: 100%; left: 0; right: 0; padding: 0 15px;}
+	.locations .locationinfo .innerbox {padding:20px;}
+	.locations .locationinfo .bottombtn {margin-top: 15px;}
+
+	#featuredpro {padding: 60px 0;}
+}
+@media only screen and (max-width: 479px){
+	.flex-control-thumbs {height: 67px;}
+	.flex-control-thumbs li {margin: 0 3px;}
+	.flex-control-thumbs img {height: 27px; width: 31px;}
+	.flex-control-thumbs .flex-active {height: 43px; width: 80px;}
+	#tablinks ul li {padding: 0 !important;}
+	#tablinks ul li a {width: 130px;}
+	#propertytitle h2 {font-size: 26px;}
+	.informations .details {padding: 13px 20px;}
+	#propertyreviews .innerbox {padding: 20px 5px 5px;}
+	.maintabs > li {width: 100%; margin-bottom: 20px;}
+	#amenities .amenities ul > li > .amentitle span {margin-left: 7px;}
+	footer .topfooter .rfooter a {width: 100%; margin: 5px 0 !important;}
+
+	.searchbar .searchform .fieldcol {width: 100%; margin: 0 0 5px 0;}
+	::-webkit-input-placeholder {font-size: 12px;}
+	::-moz-placeholder {font-size: 12px;}
+	:-ms-input-placeholder {font-size: 12px;}
+	:-moz-placeholder {font-size: 12px;}
+	.searchbar .searchform .custfield {background-position: 95% center !important;}
+	#aboutus {padding: 125px 0 75px;}
+	#aboutus .leftimgs {padding: 0;}
+	#aboutus .leftimgs .imgbox {width: 100%; position: relative; top: inherit; right: inherit; margin: 10px 0;}
+	#aboutus .righttexts {padding: 50px 0 0;}
+
+	#featuredpro .slider-box {width: 100%;}
+	#featuredpro .slider-box .thumbnail-box {padding-left: 15px;}
+}
+@media only screen and (max-height: 730px){
+	.contactbar .socials::after {display: none;}
+}
